@@ -1,5 +1,4 @@
-//your JS code here. If required.
-// your JS code here. If required.
+
 
 const btns = document.querySelectorAll(".btn");
 const stopBtn = document.querySelector(".stop");

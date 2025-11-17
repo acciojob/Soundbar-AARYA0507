@@ -1,5 +1,4 @@
 /*  your css code here. If applicable */
-/*  your css code here. If applicable */
 
 body {
     margin: 0;
@@ -23,9 +22,7 @@ body {
     border-radius: 6px;
     cursor: pointer;
     font-size: 16px;
-    transition: 0.2s ease-in-out;
+   
 }
 
-.btn:hover, .stop:hover {
-    background: #4c216d;
-}
+
